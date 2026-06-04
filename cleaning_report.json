@@ -1,0 +1,52 @@
+{
+  "groups": [
+    {
+      "groupId": 0,
+      "records": [
+        {
+          "tsid": "LPDe51d17e8",
+          "dataSetName": "Ocn-CariacoBasin.Black.2007",
+          "decision": "remove"
+        },
+        {
+          "tsid": "LPD708fb697",
+          "dataSetName": "Ocn-CariacoBasin.Black.2007",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 1,
+      "records": [
+        {
+          "tsid": "O2kLR_045",
+          "dataSetName": "Ocn-NorthIceland.Sicre.2011",
+          "decision": "keep"
+        },
+        {
+          "tsid": "O2kLR_046",
+          "dataSetName": "Ocn-NorthIceland.Sicre.2011",
+          "decision": "remove"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 2,
+      "records": [
+        {
+          "tsid": "LPDb7ba9166",
+          "dataSetName": "Ocn-TagusMudPatch.Abrantes.2005",
+          "decision": "keep"
+        },
+        {
+          "tsid": "LPD16c5b9d8",
+          "dataSetName": "Ocn-TagusMudPatch.Abrantes.2005",
+          "decision": "remove"
+        }
+      ],
+      "notes": null
+    }
+  ]
+}
